@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PWSampanis
-- 👀 I’m interested in bjj, kickboxing and spearfishing
-- 🌱 I’m currently learning Python and GCP
+- 👀 I’m interested in bjj, offroading and spearfishing
+- 🌱 I work in GCP and am currently learning Python and Data Engineering
 - 📫 How to reach me - pwsampanis@gmail.com
 
 <!---
